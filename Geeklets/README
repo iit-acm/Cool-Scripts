@@ -1,0 +1,29 @@
+/* David T. Biedrzycki
+ * dbiedrzy@iit.edu
+ * 3.12.11 
+ */
+
+The code in this directory can be used in Geeklets but also as cool terminal
+applications.
+
+NewEggDailyDeals.php
+=====================================
+-Will fetch the daily deals from NewEgg.com
+
+NewEggShellShocker.php
+=====================================
+-Will fetch the shell shocker and spotlight product deals that are up at the moment (there are three a day)
+
+calendar.php
+=====================================
+(original code from
+http://www.macosxtips.co.uk/geeklets/system/calendar-with-colored-day/
+)
+
+news.sh
+=====================================
+-Fetches the news from Gizmodo's RSS
+-Can be customized for almost any RSS feed
+
+
+
